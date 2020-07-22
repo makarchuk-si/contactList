@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/end_call.png</file>
+        <file>images/star.png</file>
+        <file>CallingPage.qml</file>
+        <file>CallingWindow.qml</file>
+        <file>ContactDelegate.qml</file>
+        <file>ContactDialog.qml</file>
+        <file>ContactForm.qml</file>
+        <file>ContactGridView.qml</file>
+        <file>ContactListProvider.qml</file>
+        <file>ContactListView.qml</file>
+        <file>MainPage.qml</file>
+        <file>SectionDelegate.qml</file>
+        <file>contact_icons/bender.jpg</file>
+        <file>contact_icons/default_contact.png</file>
+        <file>contact_icons/panterka.jpg</file>
+        <file>images/grid.png</file>
+        <file>contact_icons/adf8354.png</file>
+        <file>contact_icons/aleksei.jpg</file>
+        <file>contact_icons/petia.png</file>
+    </qresource>
+</RCC>
